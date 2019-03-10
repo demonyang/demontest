@@ -33,3 +33,4 @@ fdemo实现了后两种分发策略，具体代码在src/binlogevent下。
 ### 改进和问题反馈：
     现在只是解析了binlog，然后按照相应的策略进行分发，还没有真正去执行后续打算做这个
     1. 邮件：demon1991yl@gmail.com
+    2. 邮件：961383806@gmail.com
